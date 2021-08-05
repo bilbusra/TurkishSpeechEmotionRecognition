@@ -1,5 +1,5 @@
 # TurkishSpeechEmotionRecognition
-Generated Mel Spectrograms of TurEV-DB Dataset, TurES dataset (Turkish Speech Emotion) and RAVDESS ( https://zenodo.org/record/1188976#.YQxjYogzahc ) English Speech Emotion dataset
+Generated Mel Spectrograms of TurEV-DB (https://github.com/xeonen ) Dataset, TurES dataset (Turkish Speech Emotion) and RAVDESS ( https://zenodo.org/record/1188976#.YQxjYogzahc ) English Speech Emotion dataset
 
 
 Used MFCC, Mel Spectrogram, LFCC, LPC, PLP, PLP-RASTA Audio Feature Extraction Techniques
